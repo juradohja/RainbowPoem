@@ -5,5 +5,5 @@ Orange
 Yellow
 Green
 Blue
-Indigo
 Violet
+Pink
