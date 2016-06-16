@@ -1,9 +1,10 @@
-Rainbow
+Rainbow Poem
 
 Red
 Orange
 Yellow
 Green
 Blue
+Indigo
 Violet
 Pink
